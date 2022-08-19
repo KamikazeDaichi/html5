@@ -1,0 +1,64 @@
+Tag adalah kode dalam HTML
+Tag ada yang berpasangan, ada yg tidak
+Biasanya tag yang berpasangan memiliki pembuka dan penutup
+Tag penutup memiliki garis miring di depan nama tagnya
+struktur dasar HTML
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+
+tag apa saja yang ada dibagian <head>
+-judul halaman <title></title>
+-CSS <style></style>
+-javascript <script></script>
+-metadata <meta></meta>
+
+metadata
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Kuliah Pemrograman Web">
+    <meta name="keywords" content="HTML, CSS, Javascript">
+    <meta name="author" content="Abednego Ethelbert">
+</head>
+
+tag apa saja yang ada dibagian <body>
+- teks <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <p>, ...
+- pendukung teks <br>, <hr>, <em>, <strong>, ... 
+- gambar <img>
+- hyperlink <a>
+- list (bullets & numbering) <ul>, <ol>, <li>, <dl>, <dt>, <dd>
+- tabel <table>, <thead>, <tbody>, ... 
+- form <form>, <input>, <select>, <button>, ... 
+- script <script>
+- object <object>
+- grouping <div>, <span>
+
+tag apa saja yang ada dibagian komentar <!-- ini adalah komentar. -->
+tag komentar hanya untuk developer. Tidak muncul di browser.
+
+struktur tag
+<namatag atribut="nilai">
+contoh <body bgcolor="lightblue">
+sebuah tag bisa memiliki lebih dari satu atribut
+<body bgcolor="lightblue" id="myid" class="myclass">
+
+atribut global 
+1. accesskey - bisa di akses dengan keyboard
+2. class
+3. id
+4. dir - menentukan arah tulisan
+5. lang - untuk language
+6. style -  untuk menyisipkan inline CSS
+7. tabindex - untuk menentukan urutan (fokus cursornya kearah mana)
+8. title - untuk memberi judul pada sebuah elemen
+
+atribut lengkap www.w3school.com/Tags 
