@@ -1,0 +1,6 @@
+hyperlink adalah sebuah koneksi dari sebuah sumber web ke sumber lain
+jika tidak ada hyperlink maka tidak ada juga yg disebut web
+tag untuk link pada HTML <a></a> anchor
+agar bisa membuat tombol di klik di butuhkan yang namanya <a href=""></a> atau external link
+bisa juga menggunakan internal link atau halaman domain dari web sendiri
+relative link : jika web berada di folder yang berbeda maka gunakan <a href="nama folder yang disimpan/Halaman 2.html"></a> dan untuk kembali menggunakan folder di atasnya menggunakan <a href="../halaman 1></a>
