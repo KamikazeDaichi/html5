@@ -1,0 +1,38 @@
+form adalah sebuah elemen pada html yang digunakan untuk mengelola data dari input yang digunakan oleh user baik itu saat user mengisi data pada kolom atau pada kombo box sampai user menekan tombol.
+tag yang digunakan <form></form>
+<form>
+    ... 
+
+    <!--elemen form-->
+
+    ... 
+</form>
+
+elemen yang ada pada form 
+input 
+textarea 
+select 
+button 
+label 
+
+<input type=""> memang tidak ada penutupnya
+
+biasakan menulis apapun dalam HTML ada tagnya
+
+ada 3 input untuk membuat tombol 
+submit untuk mengirim data
+reset untuk mereset data 
+button untuk memberi fungsi spesifik untuk sebuah button 
+
+tombol gunakan tag <button type=""></button>
+
+textarea mirip dgn textfield tapi lebih besar
+
+dropdown
+<select>
+    <option>opsi 1</option>
+    <option>opsi 2</option>
+    <option>opsi 3</option>
+    ...  
+</select>
+biasa digunakan untuk memilih kota lahir

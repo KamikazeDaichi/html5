@@ -1,0 +1,21 @@
+tabel HTML
+perpotongan antara baris dan kolom disebut dgn cell/data
+implementasi tabel di HTML gunakan <table></table>
+<tr> table row (untuk membuat baris)
+<td> table data (untuk membuat kolom)
+<table>
+    <tr>
+        <td>...</td>
+    </tr>
+</table>
+
+atribut yang ada pada <table></table>
+border (gunakan CSS)
+cellspacing (gunakan CSS)
+cellpadding (gunakan CSS)
+colspan
+rowspan
+
+colspan dan rowspan digunakan untuk menggabungkan table
+colspan digunakan untuk menggabungkan 2 atau lebih kolom
+rowspan digunakan untuk menggabungkan 2 atau lebih baris

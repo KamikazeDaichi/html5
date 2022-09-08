@@ -1,0 +1,9 @@
+menyimpan sebuah gambar ke html menggunakan <img src="">
+gambar yang digunakan bisa menggunakan internal resource atau gambar didalam file yang sama
+atau bisa menggunakan external resource (hotlink) #tidak disarankan karena menggunakan dari website lain
+atribut yang dimiliki oleh <img> ada src, alt, title, width, height
+width digunakan jika browser terdapat bug sehingga tulisan yang harusnya muncul jadi tidak muncul
+title digunakan untuk memberikan judul pada gambar
+width dan height bisa digunakan salah satu atau bisa dua duanya sekaligus
+untuk menggunakan width dan height harus sesuaikan dengan gambarnya agar gambar tidak tertarik atau gepeng
+<img width="" height=""> jika kita menulis angka saja berarti ukurannya pixel (px) jika menggunakan %, ukurannya relatif tergantung halamnannya
